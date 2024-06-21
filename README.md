@@ -82,13 +82,10 @@ The Metro Ticket Booking System has the potential for several future enhancement
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
-For any inquiries or support, please contact [Your Name] at [your.email@example.com].
+For any inquiries or support, please contact [Divyanshu Singh] at [singh.divyanshu1121@gmail.com].
 
 ---
 
